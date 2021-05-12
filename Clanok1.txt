@@ -1,0 +1,3 @@
+Autor: Meno autora
+Nazov: Nazov clanku
+Datum: Datum vzniku clanku - format si zvolte
