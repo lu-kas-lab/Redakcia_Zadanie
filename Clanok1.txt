@@ -1,3 +1,8 @@
-Autor: Meno autora
-Nazov: Nazov clanku
-Datum: Datum vzniku clanku - format si zvolte
+Autor: Lukas Novak
+Nazov: Priroda
+Datum: 12.5.2021
+----
+Priroda je nádherna. Máme 4 roènéobdobia.
+Roèné obdobia su aj pomenované.
+Názvy roènyæh obdobý su Jar, Leto, Jeseò, Zima.
+----
